@@ -1,0 +1,17 @@
+*{ /*todos los elementos */
+  font-family:broadway,bauhaus,sans-serif;
+  color: purple;
+  color: #FFFFFF;
+  color: rgb(100, 50, 20);
+  color: rgba(60, 150, 180, 0.5);
+  }
+  .chacharas{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+  }
+
+#nombre{
+  font-style: italic;
+}
+/*que son los selectores compuestos*/
